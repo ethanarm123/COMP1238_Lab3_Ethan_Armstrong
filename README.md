@@ -1,2 +1,5 @@
 # COMP1238_Lab3_Ethan_Armstrong
-Intro to Data Management
+Intro to Data Management                                                                                                                                                                                                                                                             
+
+**Bold text**
+*Italics text*
