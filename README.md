@@ -8,19 +8,19 @@ __Underline text__
 
 ###Number row characters:
 
-` - Backtick
-~ - Tilde
-! - Exclamation mark
-@ - At symbol
-# - Pound sign, Hash
-$ - Dollar sign
-% - Percent
-^ - Caret
-& - Ampersand
-* - Asterisk
-( - Open parenthesis
-) - Closed parenthesis
+` Backtick
+~ Tilde
+! Exclamation mark
+@ At symbol
+# Pound sign, Hash
+$ Dollar sign
+% Percent
+^ Caret
+& Ampersand
+* * Asterisk
+( Open parenthesis
+) Closed parenthesis
 - - Hyphen
-_ - Underscore
-= - Equal sign
-+ - Plus sign
+_ Underscore
+= Equal sign
++ + Plus sign
