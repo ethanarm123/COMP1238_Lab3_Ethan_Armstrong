@@ -31,8 +31,9 @@ _ Underscore
 
 ###Links:
 
-[Basic Formatting](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax#links)
-[Listing Items](https://gist.github.com/grahamperrin/9e382d743731d03e275ae0f46aea9649#using-bullet-points-effectively)
-[Emoji Cheat Sheet](https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md)
+- [Basic Formatting](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax#links)
+- [Listing Items](https://gist.github.com/grahamperrin/9e382d743731d03e275ae0f46aea9649#using-bullet-points-effectively)
+- [Emoji Cheat Sheet](https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md)
 
 ##Emojis
+
