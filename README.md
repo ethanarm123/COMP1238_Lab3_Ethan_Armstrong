@@ -7,12 +7,12 @@ __Underline text__
 ~~Strikethrough text~~
 
 ###Number row characters:
-
+```
 ` Backtick
 ~ Tilde
 ! Exclamation mark
 @ At symbol
-# Pound sign, Hash
+# # Pound sign, Hash
 $ Dollar sign
 % Percent
 ^ Caret
@@ -24,3 +24,5 @@ $ Dollar sign
 _ Underscore
 = Equal sign
 + + Plus sign
+
+```
